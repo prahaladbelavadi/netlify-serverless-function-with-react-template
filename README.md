@@ -1,3 +1,13 @@
+
+# Serverless react application makes calls to netlify function to obtain data
+
+## Demo: https://netlify-serverless-function-with-react-template.belavadi.com/
+
+
+## Reference:
+https://www.youtube.com/watch?v=n_KASTN0gUE&t=663s&ab_channel=CodewithAniaKub%C3%B3w
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
